@@ -24,7 +24,7 @@ $$\tan x = \pi / 2$$
 
 **不喜欢申鹤的人有难了**
 
-![来点申鹤美图](./u=2887641905,913969451&fm=253&fmt=auto&app=138&f=JPEG.webp)
+![来点申鹤美图](./test.webp)
 
 ```cpp
 #include<bits/stdc++.h>
